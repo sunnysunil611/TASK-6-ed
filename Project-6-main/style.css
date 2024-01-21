@@ -1,0 +1,37 @@
+* {
+   background-color: #02343a;
+}
+
+.logo img {
+   width: 50px;
+   border-radius: 10%;
+}
+
+nav {
+   display: flex;
+   justify-content: space-evenly;
+   align-items: center;
+   font-family: Arial, Helvetica, sans-serif;
+}
+
+.right ul {
+   display: flex;
+
+}
+
+.right ul li {
+   list-style: none;
+   margin-right: 15px;
+   display: flex;
+   align-items: center;
+   cursor: pointer;
+}
+
+.right ul li span {
+   color: white;
+   padding: 0 5px;
+}
+#sc{
+   width: 10px;
+   border-radius: 10%;
+}
